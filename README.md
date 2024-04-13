@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BraixV1
-- 👀 I’m interested in JUst making fun projects 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in WebDevelopment
+- 🌱 I’m currently learning C# ASP.NET VUE REACT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: lilbob#0010
 
