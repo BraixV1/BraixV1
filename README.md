@@ -2,7 +2,9 @@
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning C# ASP.NET VUE REACT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord: lilbob#0010
+- 📫 How to reach me?
+- linkedIn: https://www.linkedin.com/in/brajan-kukk-6aa731257/
+- email: brajankukk1@gmail.com 
 - Currently focusing on swift and kotlin development
 
 <!---
